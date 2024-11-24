@@ -1,1 +1,1 @@
-# ddddd
+asm-sample-doubleblind-mode.tex
